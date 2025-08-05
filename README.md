@@ -1,5 +1,19 @@
+# Rust OOP Concepts
 
-Each file is a **standalone example** focused on a specific concept.
+> 📚 A practical guide to Object-Oriented Programming (OOP) patterns in Rust  
+> 🦀 Language: Rust | 🧠 Learning Style: Rule-based, Syntax-Driven | 🎯 Focus: Why + How
+
+---
+
+## 📌 Purpose
+
+This repository is a **learning project** that demonstrates how Object-Oriented Programming concepts can be expressed idiomatically in Rust. While Rust is **not class-based** like JavaScript or C++, it supports many OOP principles such as **encapsulation, polymorphism, and abstraction** through traits, structs, enums, and lifetimes.
+
+---
+
+## 📦 Structure
+
+
 
 ---
 
@@ -22,4 +36,4 @@ Each file is a **standalone example** focused on a specific concept.
 Make sure you have Rust installed.
 
 ```bash
-cargo run --bin 01_structs_encapsulation
+cargo run 
